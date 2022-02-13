@@ -17,3 +17,5 @@ DBMS: SQLite
 Course 1: **_SQL Basic for Data Science_**
 
 - During this couse i had to complete assignmenet. File Name: **_SQL for Data Science Course 1_** consist some of codes of that assignmenet. I have attched Data Model of dataset i used to perome queries. DataModel/SQL for Data Science Course1_ERDiagram
+
+* Certificate: https://www.coursera.org/account/accomplishments/certificate/9P8CV7TGQFFK
