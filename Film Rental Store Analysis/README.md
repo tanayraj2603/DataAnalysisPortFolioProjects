@@ -1,15 +1,14 @@
 
 # Film Rental Store Analysis
 
-Data analysis project using MySQL to discover data to get inight about user, marketing states and efforts amd much more. 
+Data analysis project using SQL to discover data to get insights about users, marketing states, efforts, and much more. 
 
-This is a weekly challenges from Udacity course "SQL for Data Analysis
-
+This is a weekly challenge from the Udacity course "SQL for Data Analysis
 
 
 ## Features
 
-- Perform data analysis for user behaviours
+- Perform data analysis for user behaviors
 - Discover marketing stats
 - Find actionable customer/business insights
 - Measure and track marketing efforts
