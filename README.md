@@ -1,4 +1,4 @@
-# Data Analysis PortFolio Projects
+# Data Analysis Portfolio Projects
 
 The primary objective of this repository is to foster continuous learning and skill enhancement in the realm of data analysis. It serves as a dynamic platform where I engage with diverse datasets, employing SQL, Python, and various Business Intelligence tools to refine my analytical capabilities and evolve as a proficient data analyst.
 
@@ -17,5 +17,6 @@ The primary objective of this repository is to foster continuous learning and sk
 
 ## BI Tools Projects
 1. [Hotel Booking Analysis](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Hotel%20Booking%20Analysis)
-2. [IT_Spend Reports](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/IT_Spend)
-3. [Retail Analysis of Australian company](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Retail%20Analysis)
+2. [HR Analtytics](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/HR%20Analtytics)
+3. [IT_Spend Reports](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/IT_Spend)
+4. [Retail Analysis of Australian company](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Retail%20Analysis)
