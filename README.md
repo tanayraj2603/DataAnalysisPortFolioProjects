@@ -16,5 +16,6 @@ The primary objective of this repository is to foster continuous learning and sk
 3. [Supply Chain Analysis](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/Supply%20Chain%20Analysis)
 
 ## BI Tools Projects
-1. [IT_Spend Reports](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/IT_Spend)
-2. [Retail Analysis of Australian company](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Retail%20Analysis)
+1. [Hotel Booking Analysis](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Hotel%20Booking%20Analysis)
+2. [IT_Spend Reports](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/IT_Spend)
+3. [Retail Analysis of Australian company](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Retail%20Analysis)
