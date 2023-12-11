@@ -15,7 +15,7 @@ The primary objective of this repository is to foster continuous learning and sk
 2. [SuperStore sales Analysis](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/SuperStore_sales_Analysis)
 3. [Supply Chain Analysis](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/Supply%20Chain%20Analysis)
 
-## BI Tools Projects
+## BI Tools Projects(Power BI/ Tableau)
 1. [Hotel Booking Analysis](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Hotel%20Booking%20Analysis)
 2. [Customer Satisfaction Analysis](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Customer%20Satisfaction%20Analysis)
 3. [HR Analtytics](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/HR%20Analtytics)
