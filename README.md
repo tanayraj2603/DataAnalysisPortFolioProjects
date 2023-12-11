@@ -17,6 +17,7 @@ The primary objective of this repository is to foster continuous learning and sk
 
 ## BI Tools Projects
 1. [Hotel Booking Analysis](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Hotel%20Booking%20Analysis)
-2. [HR Analtytics](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/HR%20Analtytics)
-3. [IT_Spend Reports](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/IT_Spend)
-4. [Retail Analysis of Australian company](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Retail%20Analysis)
+2. [Customer Satisfaction Analysis](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Customer%20Satisfaction%20Analysis)
+3. [HR Analtytics](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/HR%20Analtytics)
+4. [IT_Spend Reports](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/IT_Spend)
+5. [Retail Analysis of Australian company](https://github.com/tanayraj2603/DataAnalysisPortFolioProjects/tree/master/PowerBI_Reports/Retail%20Analysis)
