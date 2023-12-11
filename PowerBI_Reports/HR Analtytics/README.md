@@ -1,8 +1,8 @@
 
-# HR Analtytics
-Analyzed HR data to understand salary distrubation and male-female ration.
+# HR Analytics
+Analyzed HR data to understand salary distribution and male-female ratio.
 
-- Data sorce: Kaggle
+- Data source: Kaggle
 
 - Tool: Power BI
 
